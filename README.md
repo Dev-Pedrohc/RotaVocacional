@@ -31,8 +31,9 @@ Também vamos discutir no grupo mais ideias para adicionar no site ao longo do p
 ## Tecnologias
 
 - **C**: lógica principal do sistema (perguntas, cálculo de pontuação, manipulação de dados).
-- **C++**: interface virtual do projeto e partes que ficam melhores com
-- ---
+- **C++**: interface virtual do projeto e partes que ficam melhores com orientação a objetos.
+
+---
 
 ## Estrutura do projeto
 
@@ -65,8 +66,8 @@ RotaVocacional/
 | Questionário | Perguntas e respostas | | `feature/questionario` |
 | Pontuação | Pontos por área e ranking | | `feature/pontuacao` |
 | Áreas e profissões | Descrição das áreas e carreiras | | `feature/areas` |
-| Resultado | Mostra o resultado final |||| `feature/resultado` |
-| Interface virtual | Parte visual que liga tudo ||Emily e Taislayne || `feature/interface` |
+| Resultado | Mostra o resultado final | | `feature/resultado` |
+| Interface virtual | Parte visual que liga tudo | Emily e Taislayne | `feature/interface` |
 
 ---
 
