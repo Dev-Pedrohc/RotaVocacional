@@ -30,8 +30,8 @@ Também vamos discutir no grupo mais ideias para adicionar no site ao longo do p
 
 ## Tecnologias
 
-- **C**: lógica principal do sistema (perguntas, cálculo de pontuação, manipulação de dados).
-- **C++**: interface virtual do projeto e partes que ficam melhores com orientação a objetos.
+- **C**: o sistema em si (perguntas, cálculo de pontuação, manipulação de dados).
+- **HTML e CSS**: a interface virtual do projeto, que é a parte que o usuário vê e usa.
 
 ---
 
@@ -47,7 +47,7 @@ RotaVocacional/
 │   ├── pontuacao/       # cálculo da afinidade por área
 │   ├── areas/           # base de áreas e profissões
 │   ├── resultado/       # montagem e exibição do resultado
-│   └── interface/       # interface virtual (C++)
+│   └── interface/       # interface virtual (HTML e CSS)
 ├── include/             # arquivos de cabeçalho (.h)
 ├── data/                # arquivos com perguntas e áreas
 ├── main.c               # ponto de entrada do programa
@@ -73,7 +73,7 @@ RotaVocacional/
 
 ## Interface virtual
 
-Além do sistema funcionando, o projeto precisa de uma **interface virtual**, uma forma visual e organizada do usuário usar o programa. Ela conecta os módulos: o usuário navega pelas telas (início, perguntas, resultado) e a interface chama as funções do sistema por trás.
+Além do sistema funcionando, o projeto precisa de uma **interface virtual**, feita em **HTML e CSS**, para o usuário usar o programa de forma visual e organizada. O usuário navega pelas telas (início, perguntas, resultado) e a interface se conecta ao sistema em C por trás.
 
 ---
 
@@ -98,8 +98,6 @@ cd RotaVocacional
 gcc main.c src/**/*.c -o rotavocacional
 ./rotavocacional
 ```
-
-Para as partes em C++ usamos `g++`.
 
 ---
 
