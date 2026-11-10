@@ -65,8 +65,8 @@ RotaVocacional/
 | Questionário | Perguntas e respostas | | `feature/questionario` |
 | Pontuação | Pontos por área e ranking | | `feature/pontuacao` |
 | Áreas e profissões | Descrição das áreas e carreiras | | `feature/areas` |
-| Resultado | Mostra o resultado final | | `feature/resultado` |
-| Interface virtual | Parte visual que liga tudo | | `feature/interface` |
+| Resultado | Mostra o resultado final |||| `feature/resultado` |
+| Interface virtual | Parte visual que liga tudo ||Emily e Taislayne || `feature/interface` |
 
 ---
 
