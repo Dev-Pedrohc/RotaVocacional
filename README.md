@@ -62,7 +62,7 @@ RotaVocacional/
 
 | Módulo | O que faz | Responsável | Branch |
 |---|---|---|---|
-| Usuário | Cadastro e dados da pessoa | | `feature/usuario` |
+| Usuário | Cadastro e dados da pessoa |Iarley Antonio| `feature/usuario` |
 | Questionário | Perguntas e respostas | | `feature/questionario` |
 | Pontuação | Pontos por área e ranking | Pedro Candido | `feature/pontuacao` |
 | Áreas e profissões | Descrição das áreas e carreiras | Carlos Eduardo | `feature/areas` |
