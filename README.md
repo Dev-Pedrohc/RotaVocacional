@@ -64,9 +64,9 @@ RotaVocacional/
 |---|---|---|---|
 | Usuário | Cadastro e dados da pessoa | | `feature/usuario` |
 | Questionário | Perguntas e respostas | | `feature/questionario` |
-| Pontuação | Pontos por área e ranking | | `feature/pontuacao` |
+| Pontuação | Pontos por área e ranking | Pedro Candido | `feature/pontuacao` |
 | Áreas e profissões | Descrição das áreas e carreiras | | `feature/areas` |
-| Resultado | Mostra o resultado final | | `feature/resultado` |
+| Resultado | Mostra o resultado final | Ronne | `feature/resultado` |
 | Interface virtual | Parte visual que liga tudo | Emily e Taislayne | `feature/interface` |
 
 ---
